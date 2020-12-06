@@ -25,4 +25,4 @@ Footer
 
 # Visit Webpage
 
-[Github](targetURL "https://neeko623.github.io/Horiseon-Website/")
+[Github](https://neeko623.github.io/Horiseon-Website/)
