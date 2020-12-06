@@ -10,12 +10,12 @@ CSS
 ![Screenshot](./website.png)
 
 # Built with
-Header
-Navigation Bar
-Display Image
-Feature page
-Side bar
-Footer
+- Header
+- Navigation Bar
+- Display Image
+- Feature page
+- Side bar
+- Footer
 
 
 # Link to Webpage
