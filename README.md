@@ -23,6 +23,6 @@ Side bar
 Footer
 
 
-# link to Webpage
+# Visit Webpage
 
 [Github](targetURL "https://neeko623.github.io/Horiseon-Website/")
