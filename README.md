@@ -20,4 +20,4 @@ CSS
 
 # Link to Webpage
 
-[Visit Horiseon Website](https://neeko623.github.io/Horiseon-Website/)
+[Horiseon Website](https://neeko623.github.io/Horiseon-Website/)
