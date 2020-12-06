@@ -23,6 +23,6 @@ Side bar
 Footer
 
 
-# Visit Webpage
+# Link to Webpage
 
-[Github](https://neeko623.github.io/Horiseon-Website/)
+[Visit Horiseon Website](https://neeko623.github.io/Horiseon-Website/)
